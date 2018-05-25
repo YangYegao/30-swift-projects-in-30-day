@@ -1,0 +1,6 @@
+framework module Pods_Day02_Watch {
+  umbrella header "Pods-Day02_Watch-umbrella.h"
+
+  export *
+  module * { export * }
+}

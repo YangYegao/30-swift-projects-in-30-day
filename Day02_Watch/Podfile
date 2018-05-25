@@ -1,0 +1,8 @@
+project 'Day02_Watch.xcodeproj'
+
+platform :ios, '10.0'
+
+target 'Day02_Watch' do
+  use_frameworks!
+  pod 'SnapKit'
+end

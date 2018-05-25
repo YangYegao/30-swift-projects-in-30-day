@@ -1,0 +1,6 @@
+framework module Pods_Day01_CustomFont {
+  umbrella header "Pods-Day01_CustomFont-umbrella.h"
+
+  export *
+  module * { export * }
+}
